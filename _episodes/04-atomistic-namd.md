@@ -8,7 +8,7 @@ title: "4. Day 4: NBRA-NA-MD workflow for atomistic systems"
  - Where: Natural Sciences Complex 220
  - Instructors: Mohammad Shakiba, Qingxin Zhang, Alexey Akimov
 
-[Slides](../files/compchem-cybertraining/Workshop_July_2024.pdf)
+[Slides](../files/Mohammad_Shakiba/July11-nbra.pdf)
 
 # 2. TSH for atomistic systems (NBRA NA-MD workflow)
 

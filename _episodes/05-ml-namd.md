@@ -8,7 +8,7 @@ title: "5. Day 5: Machine Learning in atomistic NA-MD workflow"
  - Where: Baldy Hall 200G
  - Instructors: Mohammad Shakiba, Alexey Akimov
 
-[Slides](../files/Mohammad_Shakiba/Workshop_July_2024_ML.pdf)
+[Slides](../files/Mohammad_Shakiba/July12-machine-learning.pdf)
 
 # 2. Machine Learning in NA-MD
 
